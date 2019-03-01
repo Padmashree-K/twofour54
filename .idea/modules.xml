@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MobileApp/Amazon-android-automation.iml" filepath="$PROJECT_DIR$/../MobileApp/Amazon-android-automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2_iDigiPro/Automation.iml" filepath="$PROJECT_DIR$/../2_iDigiPro/Automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../twofour54/Automation (1).iml" filepath="$PROJECT_DIR$/../twofour54/Automation (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Basic/Basic.iml" filepath="$PROJECT_DIR$/../Basic/Basic.iml" />
+    </modules>
+  </component>
+</project>
